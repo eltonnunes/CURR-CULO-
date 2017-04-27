@@ -4,7 +4,7 @@
 
 Local: Aracaju - Sergipe | Idade: 32 anos
 
-Sou desenvolvedor web com timeline extensa, Apple maníaco e trabalho sempre escutando uma boa música. Gosto muito do que faço
+Sou desenvolvedor web com time line extensa, Apple maníaco e trabalho sempre escutando uma boa música. Gosto muito do que faço
 e não me vejo fazendo outra coisa que não relacionado com a Tecnologia. Nas horas vagas gosto de navegar na internet 
 para me manter atualizado nas novas tecnologias e tendências. Trabalho como desenvolvedor, professor, design e gestor na área de TI.
 
