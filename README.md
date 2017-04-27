@@ -9,7 +9,7 @@ e não me vejo fazendo outra coisa que não relacionado com a Tecnologia. Nas ho
 para me manter atualizado nas novas tecnologias e tendências. Trabalho como desenvolvedor, professor, design e gestor na área de TI.
 
 twitter: [@ltnnns](http://twitter.com/ltnnns "pessoal")  
-github: [https://github.com/eltonnunes](https://github.com/eltonnunes "pessoal") "empresa")  
+github: [https://github.com/eltonnunes](https://github.com/eltonnunes "pessoal") 
 
 ## Conhecimentos
 
