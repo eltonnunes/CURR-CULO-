@@ -13,12 +13,11 @@ github: [https://github.com/eltonnunes](https://github.com/eltonnunes "pessoal")
 
 ## Conhecimentos
 
-* PHP, Zend Framework
-* C#, .Net
-* Javascript, TypeScript, Angular
+* C#, .Net, PHP, Zend Framework
+* Javascript, TypeScript, Angular, Ionic
 * HTML e CSS
-* Sistemas de controle de versão git
-* PhotoShop, Ilustrator
+* Sistemas de controle de versão Git, Svn
+* PhotoShop, Ilustrator, Adobe XD
 
 ## Formação
 
